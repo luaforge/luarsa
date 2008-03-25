@@ -1,0 +1,5 @@
+LIBRARY core.dll
+DESCRIPTION "LuaRSA"
+VERSION 0.1.0
+EXPORTS
+luaopen_rsa_core

@@ -1,0 +1,16 @@
+RSA - Cryptographic Library for Lua
+Copyright 2003-2007
+http://www.keplerproject.org/luarsa
+
+RSA offers public key cryptographic facilities for Lua 5.1
+
+RSA current version is 0.1.0.
+
+To install on Linux/OSX/BSD, please edit the config file and then call
+
+make
+make install
+
+The last step may require root privileges.
+
+Please check the documentation at /doc/us/ for more information.
