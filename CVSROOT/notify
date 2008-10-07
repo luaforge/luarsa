@@ -14,4 +14,4 @@
 #    %s = user to notify
 #
 # For example:
-ALL (echo Committed to %r/%p; cat) |mail %s -s "CVS notification"
+ALL (echo Committed to %r/%p; cat) |mail luarsa-commits@lists.luaforge.net -s "CVS notification"
