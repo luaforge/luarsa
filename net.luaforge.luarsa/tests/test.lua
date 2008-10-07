@@ -73,4 +73,5 @@ contchars(code)
 
 assert(md5.crypt('a', 'a') ~= md5.crypt('a', 'b'))
 
+
 print"OK"
